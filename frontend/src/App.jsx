@@ -14,7 +14,7 @@ function App() {
     setError(null);
     setResult(null);
     try {
-      const response = await axios.post("http://127.0.0.1:8080/analyze", { url });
+      const response = await axios.post("https://phishing-url-detector-k1ir.onrender.com/analyze", { url });
       setResult(response.data);
     } catch (err) {
       setError("Error al analizar la URL. Verifica que el backend esté corriendo.");
