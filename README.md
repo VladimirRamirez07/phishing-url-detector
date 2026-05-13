@@ -1,6 +1,5 @@
 # 🛡️ Phishing URL Detector
 
-🌐 **Live Demo:** [phishing-url-detector-olive.vercel.app](https://phishing-url-detector-olive.vercel.app)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.136-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -13,6 +12,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Cybersecurity%20UI-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+---
+
+### 🌐 [Live Demo → phishing-url-detector-olive.vercel.app](https://phishing-url-detector-olive.vercel.app)
+
+---
 
 > Real-time URL threat analyzer that queries 90+ security engines simultaneously using VirusTotal and Google Safe Browsing APIs.
 
