@@ -184,10 +184,11 @@ function App() {
         <div className="footer">
           <span>PHISHING DETECTOR v1.0</span>
           <span>|</span>
-          <span>VladimirRamirez07</span>
-          <span>|</span>
-          <span>GitHub</span>
+          <a href="https://github.com/VladimirRamirez07" target="_blank" rel="noopener noreferrer" className="footer-link">
+            GitHub ↗
+          </a>
         </div>
+
       </div>
     </div>
   );
